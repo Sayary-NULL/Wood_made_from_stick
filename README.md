@@ -1,4 +1,6 @@
 # Wood_made_from_stick
+SFML 2.5.1 CMake 3.16
+
 Usage: Wood_made_from_stick [options]
        
        Options:
